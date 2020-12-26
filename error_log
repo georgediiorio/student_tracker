@@ -1,0 +1,1 @@
+[10-Dec-2020 18:21:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/skillful/public_html/alpha/week3-inprogress/admin-dashboard.php on line 18
